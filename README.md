@@ -7,7 +7,7 @@ An evolving list of plugins recommended in a WordPress tech stack
 <br><br>
 
 
-# In Current Use
+# In Heavy Rotation
 
 ## Advanced Custom Fields PRO
 Vital extensibility for WordPress. 
